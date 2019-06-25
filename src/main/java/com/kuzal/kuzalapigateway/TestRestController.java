@@ -8,6 +8,6 @@ public class TestRestController {
 
     @GetMapping("/test")
     public String testMethod() {
-        return "jenkins success!!";
+        return "test2";
     }
 }
